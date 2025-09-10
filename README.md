@@ -19,7 +19,7 @@ The solution follows the **Medallion Architecture**:
 2. **Silver Layer (Cleansed Data)** – AWS Glue ETL (PySpark) cleans and standardizes data.  
 3. **Gold Layer (Business Analytics)** – Aggregated, business-ready data for Athena/QuickSight.  
 
-![Architecture Diagram](src/Neha_Deshmukh_BC001_FinanceDataPipeline_Documentation.pdf)
+![Architecture Diagram](Neha_Deshmukh_BC001_FinanceDataPipeline_Documentation.pdf)
 
 ---
 
