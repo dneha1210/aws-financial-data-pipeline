@@ -67,3 +67,14 @@ The solution follows the **Medallion Architecture**:
 
 ---
 
+##  How to Run
+1. Clone this repo  
+2. Deploy infra with Terraform (`terraform init && terraform apply`)  
+3. Run Glue ETL jobs from AWS Console  
+4. Query results in Athena  
+5. Open QuickSight for dashboard  
+
+---
+
+##  Author
+**Neha Deshmukh** – AWS Data Engineering Project 1
